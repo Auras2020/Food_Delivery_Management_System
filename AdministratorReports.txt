@@ -1,0 +1,28 @@
+orders performed between 2 and 7: 
+orderID 5 clientID 6 orderDate Tue Feb 04 03:08:00 EET 3913
+
+orderID 1 clientID 3 orderDate Wed Jan 04 07:08:00 EET 3911
+
+
+products ordered more than 2 times: 
+Produsul Red Pepper Sauce  rating 4.375 calories 24 proteins 1 fat 0 sodium 253 price 62
+
+Produsul Miso Soup  rating 3.75 calories 41 proteins 4 fat 2 sodium 347 price 10
+
+
+clients that have ordered more than 1 and the total value of the orders was bigger than 100.0: 
+3 
+
+products ordered in day 4: 
+Produsul Miso Soup  rating 3.75 calories 41 proteins 4 fat 2 sodium 347 price 10
+
+number of times being ordered: 3
+Produsul Red Pepper Sauce  rating 4.375 calories 24 proteins 1 fat 0 sodium 253 price 62
+
+number of times being ordered: 2
+Produsul Fresh Figs with Bacon and Goat Cheese  rating 4.375 calories 34 proteins 1 fat 2 sodium 31 price 51
+
+number of times being ordered: 1
+Produsul Grilled Pineapple Salsa  rating 3.75 calories 47 proteins 1 fat 0 sodium 467 price 94
+
+number of times being ordered: 1
